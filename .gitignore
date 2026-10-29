@@ -1,0 +1,6 @@
+venv/
+db/
+books/
+__pycache__/
+*.pyc
+*.pdf
